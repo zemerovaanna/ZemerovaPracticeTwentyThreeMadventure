@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/drawable_step.png.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/drawable/step.png"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/drawable_logo.png.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/drawable_edittextstyle.xml.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/drawable/edittextstyle.xml"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/layout_activity_result.xml.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/drawable_buttonstyle.xml.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/drawable/buttonstyle.xml"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/layout_activity_main.xml.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.madventurezemerova.app-merged_res-63:/drawable_picture.png.flat",
+        "source": "com.example.madventurezemerova.app-main-65:/drawable/picture.png"
+    }
+]

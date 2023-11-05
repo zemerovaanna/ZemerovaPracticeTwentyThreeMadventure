@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aquamarine">#14C7AF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#171717</color>
+    <color name="red">#FF2525</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">MadventureZemerova</string>
+    <string name="countsteps">10.000 steps</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="info">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus metus at eleifend porttitor. Sed et urna ut nulla condimentum laoreet. Duis et velit ut leo varius blandit. Curabitur accumsan nisi eu leo tristique sollicitudin. Praesent vulputate odio ut porta sollicitudin. Ut accumsan elit orci, in congue turpis posuere ac.</string>
+    <string name="password">Password</string>
+    <string name="sendresult">Send result</string>
+    <string name="signin">Sign in</string>
+    <string name="title">Go to \nWorldSkills 2019</string>
+</resources>

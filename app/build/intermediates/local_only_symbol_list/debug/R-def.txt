@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color aquamarine
+color black
+color gray
+color red
+color white
+drawable buttonstyle
+drawable edittextstyle
+drawable logo
+drawable picture
+drawable step
+id button
+id buttonSignIn
+id email
+id password
+layout activity_main
+layout activity_result
+layout activity_sign_in
+mipmap ic_launcher
+string app_name
+string countsteps
+string description
+string email
+string hello_world
+string info
+string password
+string sendresult
+string signin
+string title

@@ -6,9 +6,8 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
-import androidx.activity.ComponentActivity
 
-class SignInActivity : ComponentActivity() {
+class SignInActivity : AppCompatActivity() {
     lateinit var email: EditText
     lateinit var password: EditText
     lateinit var bsignin: Button
